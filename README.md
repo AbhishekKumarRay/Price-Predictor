@@ -26,7 +26,7 @@ factors that impact the cost were also taken into considerations such as locatio
     
     
  <h2>To execute:</h2>
-There are two different flask servers configured, on two different ports, which needs to be executed parallelly.<br>
+Here, there are two different flask servers configured, on two different ports, which needs to be executed parallelly.<br>
 1. All India
 
 
