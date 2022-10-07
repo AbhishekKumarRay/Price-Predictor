@@ -14,7 +14,7 @@ people/customer to predict the exact time slap to accumulate a house. Some of th
 factors that impact the cost were also taken into considerations such as location, BHK, etc.
  <br>
 
-<h2>One time Setup:</h2>
+<h2>One time Setup-:</h2>
         
     pip install pandas
            
